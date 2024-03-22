@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ivcp
+- 👋 Hi, I’m Ivo
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning backend 
+- 🌱 I've been teaching myself to code for the past two years
+- ▶ Currently learning Go and enjoying it :)
 
 
 <!---
