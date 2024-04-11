@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivo
 - 👀 I’m interested in Web Development
 - 🌱 I've been teaching myself to code for the past two years
-- ▶ Currently learning Go and enjoying it :)
+- ▶ Currently learning PHP
 
 
 <!---
