@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivo
 - 👀 I’m interested in Web Development
-- ▶ Currently learning PHP
+- ▶ Currently learning Symfony
 
 
 <!---
